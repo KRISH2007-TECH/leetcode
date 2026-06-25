@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KRISH2007-TECH/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KRISH2007-TECH/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/KRISH2007-TECH/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/KRISH2007-TECH/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KRISH2007-TECH/leetcode/tree/master/0326-power-of-three) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
