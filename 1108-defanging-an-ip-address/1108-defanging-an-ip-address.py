@@ -1,10 +1,12 @@
 class Solution(object):
     def defangIPaddr(self, address):
-        a=list(address)
-        for i in range (len(a)):
-            if a[i]=='.':
-                a[i]='[.]'
-        return ''.join(a)
+        ans=''
+        for i in address:
+            if i=='.':
+                ans=ans+'[.]'
+            else :
+                ans=ans+i
+        return ans
         
         """
         :type address: str
