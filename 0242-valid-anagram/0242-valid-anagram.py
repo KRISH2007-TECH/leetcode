@@ -1,12 +1,7 @@
 class Solution(object):
     def isAnagram(self, s, t):
-        l=list(s)
-        k=list(t)
-        l.sort()
-        k.sort()
-        s=''.join(l)
-        t=''.join(k)
-        if t==s:
+        
+        if sorted(t)==sorted(s):
             return True
         return False
         """
