@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KRISH2007-TECH/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KRISH2007-TECH/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KRISH2007-TECH/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/KRISH2007-TECH/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/KRISH2007-TECH/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0905-sort-array-by-parity](https://github.com/KRISH2007-TECH/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KRISH2007-TECH/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KRISH2007-TECH/leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KRISH2007-TECH/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KRISH2007-TECH/leetcode/tree/master/0326-power-of-three) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/KRISH2007-TECH/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/KRISH2007-TECH/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KRISH2007-TECH/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KRISH2007-TECH/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KRISH2007-TECH/leetcode/tree/master/0905-sort-array-by-parity) |
