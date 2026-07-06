@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/KRISH2007-TECH/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KRISH2007-TECH/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KRISH2007-TECH/leetcode/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/KRISH2007-TECH/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KRISH2007-TECH/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KRISH2007-TECH/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0189-rotate-array) |
+| [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/KRISH2007-TECH/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/KRISH2007-TECH/leetcode/tree/master/0905-sort-array-by-parity) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -160,4 +163,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
