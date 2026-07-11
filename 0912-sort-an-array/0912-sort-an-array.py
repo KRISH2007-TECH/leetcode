@@ -1,7 +1,6 @@
 class Solution(object):
     def sortArray(self, nums):
-        nums.sort()
-        return nums
+        return sorted(nums)       
         """
         :type nums: List[int]
         :rtype: List[int]
