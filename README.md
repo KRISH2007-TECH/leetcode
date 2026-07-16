@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0049-group-anagrams](https://github.com/KRISH2007-TECH/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KRISH2007-TECH/leetcode/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/KRISH2007-TECH/leetcode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KRISH2007-TECH/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KRISH2007-TECH/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KRISH2007-TECH/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/KRISH2007-TECH/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/KRISH2007-TECH/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/KRISH2007-TECH/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/KRISH2007-TECH/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/KRISH2007-TECH/leetcode/tree/master/0326-power-of-three) |
