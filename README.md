@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KRISH2007-TECH/leetcode/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
 ## Data Stream
 |  |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/KRISH2007-TECH/leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/KRISH2007-TECH/leetcode/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
