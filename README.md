@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/KRISH2007-TECH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/KRISH2007-TECH/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/KRISH2007-TECH/leetcode/tree/master/0342-power-of-four) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/KRISH2007-TECH/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KRISH2007-TECH/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/KRISH2007-TECH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/KRISH2007-TECH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/KRISH2007-TECH/leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Queue
 |  |
@@ -201,4 +203,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/KRISH2007-TECH/leetcode/tree/master/0496-next-greater-element-i) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/KRISH2007-TECH/leetcode/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/KRISH2007-TECH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
