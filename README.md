@@ -207,8 +207,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/KRISH2007-TECH/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0872-leaf-similar-trees](https://github.com/KRISH2007-TECH/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/KRISH2007-TECH/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0872-leaf-similar-trees](https://github.com/KRISH2007-TECH/leetcode/tree/master/0872-leaf-similar-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0872-leaf-similar-trees](https://github.com/KRISH2007-TECH/leetcode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
