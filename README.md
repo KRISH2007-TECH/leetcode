@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/KRISH2007-TECH/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/KRISH2007-TECH/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/KRISH2007-TECH/leetcode/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0905-sort-array-by-parity](https://github.com/KRISH2007-TECH/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KRISH2007-TECH/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/KRISH2007-TECH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/KRISH2007-TECH/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/KRISH2007-TECH/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 ## Queue
 |  |
 | ------- |
