@@ -1,26 +1,24 @@
 class Solution(object):
     def search(self, nums, target):
-        low = 0
-        high = len(nums) - 1
+        i = 0
+        j = len(nums) - 1
 
-        while low <= high:
-            mid = (low + high) // 2
+        while i <= j:
+            mid = (i + j) // 2
 
             if nums[mid] == target:
                 return mid
 
-            # Left half is sorted
-            if nums[low] <= nums[mid]:
-                if nums[low] <= target < nums[mid]:
-                    high = mid - 1
+            if nums[i] <= nums[mid]:
+                if nums[i] <= target < nums[mid]:
+                    j = mid - 1
                 else:
-                    low = mid + 1
+                    i = mid + 1
 
-            # Right half is sorted
             else:
-                if nums[mid] < target <= nums[high]:
-                    low = mid + 1
+                if nums[mid] < target <= nums[j]:
+                    i = mid + 1
                 else:
-                    high = mid - 1
+                    j = mid - 1
 
         return -1
