@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/KRISH2007-TECH/leetcode/tree/master/0520-detect-capital) |
 | [1108-defanging-an-ip-address](https://github.com/KRISH2007-TECH/leetcode/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KRISH2007-TECH/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [3498-reverse-degree-of-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0147-insertion-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
+## Simulation
+|  |
+| ------- |
+| [3498-reverse-degree-of-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
