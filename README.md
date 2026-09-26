@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/KRISH2007-TECH/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KRISH2007-TECH/leetcode/tree/master/0075-sort-colors) |
+| [0147-insertion-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KRISH2007-TECH/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KRISH2007-TECH/leetcode/tree/master/0242-valid-anagram) |
@@ -256,5 +257,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0147-insertion-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
