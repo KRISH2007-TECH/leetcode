@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/KRISH2007-TECH/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/KRISH2007-TECH/leetcode/tree/master/0075-sort-colors) |
+| [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KRISH2007-TECH/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KRISH2007-TECH/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/KRISH2007-TECH/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/KRISH2007-TECH/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/KRISH2007-TECH/leetcode/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KRISH2007-TECH/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0189-rotate-array) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KRISH2007-TECH/leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KRISH2007-TECH/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
 ## Dynamic Programming
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -249,4 +253,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KRISH2007-TECH/leetcode/tree/master/0075-sort-colors) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
