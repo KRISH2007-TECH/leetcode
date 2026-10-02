@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KRISH2007-TECH/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/KRISH2007-TECH/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/KRISH2007-TECH/leetcode/tree/master/1672-richest-customer-wealth) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/KRISH2007-TECH/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/KRISH2007-TECH/leetcode/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/KRISH2007-TECH/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/KRISH2007-TECH/leetcode/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/KRISH2007-TECH/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
