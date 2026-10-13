@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/KRISH2007-TECH/leetcode/tree/master/0520-detect-capital) |
 | [0804-unique-morse-code-words](https://github.com/KRISH2007-TECH/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/KRISH2007-TECH/leetcode/tree/master/1108-defanging-an-ip-address) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KRISH2007-TECH/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KRISH2007-TECH/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3498-reverse-degree-of-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KRISH2007-TECH/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KRISH2007-TECH/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/KRISH2007-TECH/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/KRISH2007-TECH/leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Heap (Priority Queue)
 |  |
