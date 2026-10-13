@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/KRISH2007-TECH/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KRISH2007-TECH/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/KRISH2007-TECH/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/KRISH2007-TECH/leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KRISH2007-TECH/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/KRISH2007-TECH/leetcode/tree/master/0242-valid-anagram) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/KRISH2007-TECH/leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/KRISH2007-TECH/leetcode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/KRISH2007-TECH/leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/KRISH2007-TECH/leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0189-rotate-array) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KRISH2007-TECH/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/KRISH2007-TECH/leetcode/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/KRISH2007-TECH/leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KRISH2007-TECH/leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KRISH2007-TECH/leetcode/tree/master/0125-valid-palindrome) |
