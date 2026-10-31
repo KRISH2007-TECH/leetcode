@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/KRISH2007-TECH/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/KRISH2007-TECH/leetcode/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/KRISH2007-TECH/leetcode/tree/master/0912-sort-an-array) |
+| [1382-balance-a-binary-search-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/KRISH2007-TECH/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [1382-balance-a-binary-search-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KRISH2007-TECH/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/KRISH2007-TECH/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -251,12 +254,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KRISH2007-TECH/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/KRISH2007-TECH/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/KRISH2007-TECH/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0872-leaf-similar-trees](https://github.com/KRISH2007-TECH/leetcode/tree/master/0872-leaf-similar-trees) |
+| [1382-balance-a-binary-search-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -283,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/3498-reverse-degree-of-a-string) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->
