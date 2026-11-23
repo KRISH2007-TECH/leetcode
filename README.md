@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/KRISH2007-TECH/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/KRISH2007-TECH/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/KRISH2007-TECH/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/KRISH2007-TECH/leetcode/tree/master/0520-detect-capital) |
 | [0804-unique-morse-code-words](https://github.com/KRISH2007-TECH/leetcode/tree/master/0804-unique-morse-code-words) |
 | [1108-defanging-an-ip-address](https://github.com/KRISH2007-TECH/leetcode/tree/master/1108-defanging-an-ip-address) |
@@ -292,4 +293,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/KRISH2007-TECH/leetcode/tree/master/1382-balance-a-binary-search-tree) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KRISH2007-TECH/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KRISH2007-TECH/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/KRISH2007-TECH/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
